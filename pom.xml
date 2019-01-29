@@ -17,6 +17,7 @@
 
     <modules>
         <module>springboot_mybatis_demo</module>
+        <module>springboot_mybatis_demo2</module>
     </modules>
 
     <properties>
